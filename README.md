@@ -1,6 +1,6 @@
 # Text-mining-projects
 
-Repository with 2 projects about tweets with query "Ukraine":<br />
+Repository with 2 projects about tweets related to Ukraine:<br />
 <br />
 File 1 - TMS contains project called "Analysis of tweets about Ukraine using text mining techniques". This project is aimed on collecting, preparing and analysing messages from one of the most popular social networking service - Twitter. Using Twitter's REST API, tweets with query "Ukraine" are collected. After it cleaned and analyzed data is used in topic modelling using LDA. <br />
 <br />
